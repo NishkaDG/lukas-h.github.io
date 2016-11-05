@@ -3,7 +3,6 @@ layout: post
 title:  "Über mich"
 date:   2016-09-11 22:12:00 +0200
 tags: ['deutsch', 'Über', 'Infos', 'Projekte', 'News']
-author: "Lukas Himsel"
 ---
 
 Ich bin ein Schüler aus dem Raum Kitzingen, bin 16 Jahre alt und liebe es, Klavier zu spielen und multimediale Projekte umzusetzen.  

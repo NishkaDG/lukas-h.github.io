@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/pf.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Share Tech Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/st.ttf) format('truetype');
+}
 body{
     font-family: 'Playfair Display', serif;
     font-size: 16.5px;
@@ -9,12 +21,11 @@ h3{ font-size: 28px; }
 h4{ font-size: 24px; }
 h5{ font-size: 20px; }
 h6{ font-size: 18px; }
-h1, h2, h3, h4, h5, h6{
-    font-weight: 400;
+h2, h3, h4, h5, h6{
     margin: 20px 5px 0px;
 }
 small{
-    font-size: 13px;
+    font-size: 14px;
 }
 a{
     text-decoration: none;
@@ -84,5 +95,11 @@ li{
 .post-content h4{ font-size: 20px; }
 .post-content h5{ font-size: 18px; }
 .post-content h6{ font-size: 16px; }
-.author{ font-size: 14px; }
-.author .tag{ font-family: 'Cutive Mono', monospace; }
+.author{
+    font-size: 14px;
+    font-weight: 500;
+}
+.tag{
+    font-size: 14px;
+    font-family: 'Share Tech Mono', monospace;
+}

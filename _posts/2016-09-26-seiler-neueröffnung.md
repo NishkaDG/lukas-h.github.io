@@ -3,7 +3,6 @@ layout: post
 title:  "Neueröffnung der Verkaufsräume bei Seiler"
 date:   2016-09-26 17:30:00 +0200
 tags: ['deutsch', 'Seiler', 'Piano', 'Flügel']
-author: "Lukas Himsel"
 ---
 
 Am Samstag, 24. 9., hat die Klavierfabrik Seiler in Kitzingen ihre neuen Verkaufsräume eröffnet. Diese sind im Ortsteil Etwashausen im Gebäude der Traditionsfirma. 
