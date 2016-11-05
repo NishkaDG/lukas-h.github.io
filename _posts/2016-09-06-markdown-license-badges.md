@@ -2,7 +2,6 @@
 layout: post
 title:  "Markdown License Badges"
 date:   2016-09-06 13:04:00 +0200
-tags: ['english', 'markdown', 'github']
 ---
 I am a person who spends for every hour of coding the same amount of time on creating READMEs
 and documentation. I wanted to give the people, who have a quick look on the projects a

@@ -12,16 +12,8 @@ layout: default
 		</div>
 
 		{% if post.author %}
-		<p class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-			<span itemprop="name">Ein Artikel von {{ post.author }}</span><br>
-		</p>
-		{% endif %}
-		{% if post.tags %}
-		<span>
-			<i class="icon ion-pricetags"></i>	
-			{% for tag in post.tags %}
-			<span class="tag">{{ tag }}</span>&ensp;
-			{% endfor %}
+		<span class="chip" itemprop="author" itemscope itemtype="http://schema.org/Person">
+			<span itemprop="name">Ein Artikel von {{ post.author }}</span>
 		</span>
 		{% endif %}
 
