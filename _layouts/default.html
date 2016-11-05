@@ -16,16 +16,6 @@
 					<a href="https://github.com/{{ site.github_username }}" class="github-icon btn"><i class="icon ion-social-github"></i></a>
 					<a href="feed.xml" class="rss-icon btn"><i class="icon ion-social-rss"></i></a>
 				</div>
-				<div class="unit whole" id="/projects">
-					<h4>Projekte</h4>
-					<ul>
-						{% for project in site.data.projects %}
-						<li>
-							<p><a href="{{ project.link }}">{{ project.name }}</a><br><small>{{ project.description }}</small></p>
-						</li>
-						{% endfor %}
-					</ul>
-				</div>
 				<div class="unit whole hide-on-mobiles" id="/impressum">
 					{% include imprint.html %}
 				</div>
