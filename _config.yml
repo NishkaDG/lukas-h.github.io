@@ -1,0 +1,30 @@
+safe: false
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: /:title
+
+title: "Lukas Himsel"
+description: "Lukas Himsels persönliche Website mit Themen wie Musik, Klaviere, Open-Data, Open-Source und Webprojekten."
+baseurl: "/onepager"
+url: "http://himsel.me" # replace by your site's url
+twitter_username: lukashimsel
+github_username:  lukas-h
+
+author: "Lukas Himsel"
+address: "Manegoldstraße 11, 97346 Iphofen"
+region: "Deutschland"
+email: "lukas (at) himsel.me"
+
+# google analytics tracking code, please change the value
+g_analytics: "UA-72004048-3"
+
+# language settings
+isolang: de 
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md

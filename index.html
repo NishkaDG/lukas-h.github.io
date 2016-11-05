@@ -1,0 +1,34 @@
+---
+layout: default
+--- 
+
+{% for post in site.posts %}
+<div id="{{ post.id }}" class="unit whole align-left my-post">
+	<article itemscope itemtype="http://schema.org/BlogPosting">
+		<h2>
+			{{ post.title }}
+			<br>
+			<small>
+				{{ post.date | date: "%b %-d, %Y" }}
+			</small>
+		</h2>
+		<div>
+			{{ post.content }}
+		</div>
+
+		<p class="my-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+			{% if post.author %}
+			<span itemprop="name">Ein Artikel von {{ post.author }}</span>
+			{% endif %}
+			<br>
+			{% if post.tags %}
+			<small><i class="icon ion-ios-pricetags"></i>	
+				{% for tag in post.tags %}
+					<span class="">{{ tag }}</span>&ensp;
+				{% endfor %}
+				</small>
+			{% endif %}
+		</p>
+	</article>
+</div>
+{% endfor %}
