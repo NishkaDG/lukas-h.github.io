@@ -21,7 +21,7 @@ Webtechnologien, Linux, BSD, C, Open-Source, Open-Data und viele weitere Themen 
 Wenn ich mal Zeit finde, schreibe ich auch ein paar Zeilen über dies und das. 
 Ganz vergessen; Material Design ist etwas, dass ich seit neuerer Zeit sehr feiere.
 
-#### Kontakt 
+## Kontakt 
 Wenn man mit mir Kontakt aufnehmen will, dann am besten über Twitter oder per E-Mail.
 Telefon oder Instant-Messaging kann dann geklärt werden.  
 lukas (at) himsel.me  

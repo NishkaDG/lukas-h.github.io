@@ -2,30 +2,31 @@ body{
     font-family: 'Playfair Display', serif;
     font-size: 16.5px;
 }
-h1{
-    font-size: 42px;
-    font-weight: 500;
-}
-h2{
-    font-size: 32px;
-}
-h3{
-    font-size: 28px;
-}
-h4{
-    font-size: 24px;
-}
-h5{
-    font-size: 20px;
-}
-h6{
-    font-size: 18px;
-}
+h1{ font-size: 42px;
+   font-weight: 500; }
+h2{ font-size: 32px; }
+h3{ font-size: 28px; }
+h4{ font-size: 24px; }
+h5{ font-size: 20px; }
+h6{ font-size: 18px; }
 h1, h2, h3, h4, h5, h6{
     font-weight: 400;
     margin: 20px 5px 0px;
 }
-
+small{
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+    color: #db4646;
+    cursor: pointer;
+}
+a:hover{
+    color: #b21c1c;
+}
+a:active{
+    color: #910b0b;
+}
 img{
     max-width: 100%;
 }
@@ -39,20 +40,6 @@ li{
     list-style-type: none;
     margin: 0;
 }
-small{
-    font-size: 13px;
-    line-height: 16px;
-}
-a{
-    text-decoration: none;
-    color: #db4646;
-}
-a:hover{
-    color: #b21c1c;
-}
-a:active{
-    color: #910b0b;
-}
 .github-icon:hover{
     color: #85d063;
 }
@@ -63,8 +50,6 @@ a:active{
     color: #f49c52;
 }
 .btn{
-    box-shadow: none;
-    background-color: transparent;
     border: none;
     border-radius: 2px;
     display: inline-block;
@@ -74,30 +59,32 @@ a:active{
     cursor: pointer;
     transition: background-color .2s;
     vertical-align: middle;
-    -webkit-tap-highlight-color: transparent;
     color: #343434;
+    background-color: transparent;
+    box-shadow: none;
+    -webkit-tap-highlight-color: transparent;
     text-decoration: none;
 }
 .btn:focus, .btn:hover {
     background-color: rgba(0,0,0,0.1);
-    box-shadow: none;
 }
 .btn:active {
   background-color: rgba(0, 0, 0, 0.2);
-  box-shadow: none;
 }
 .btn.disabled, btn:disabled {
   background-color: transparent !important;
   color: #b3b3b3 !important;
   cursor: default;
 }
-.my-blog-column{
-    background: #fcf0ea;
-}
-.my-post{
-    margin-top: 30px;
-}
-.my-author{
-    font-size: 17.5px;
-    font-weight: 400;
+
+.post{ margin-top: 30px; }
+.post-content h1{ font-size: 28px; }
+.post-content h2{ font-size: 24px; }
+.post-content h3{ font-size: 22px; }
+.post-content h4{ font-size: 20px; }
+.post-content h5{ font-size: 18px; }
+.post-content h6{ font-size: 16px; }
+.author{
+    font-size: 14px;
+    font-weight: 500;
 }

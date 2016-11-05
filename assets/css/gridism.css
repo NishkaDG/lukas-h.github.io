@@ -103,6 +103,7 @@
     display: none !important;
   }
 }
+/* added by me */
 @media screen and (min-width: 569px) {
   .hide-on-desktops {
     display: none !important;

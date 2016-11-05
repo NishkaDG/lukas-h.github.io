@@ -30,7 +30,7 @@ wie sprachlich komplett ist.
 Derbe, komische, Kopfschütteln zuhauf auslösende Beispiele für den Missbrauch des Apostrophs finden sich
 in beschämender Fülle hier: deppenapostroph.info.  
 
-#### Die einschlägigen Rechtschreib-Regeln zum Thema
+## Die einschlägigen Rechtschreib-Regeln zum Thema
 **Man setzt** einen Apostroph bei Wörtern mit Auslassungen, wenn die verkürzten Wortformen sonst schwer
 lesbar oder missverständlich wären (Bsp.: „Dass aber der Wein von Ewigkeit sei, daran zweifl' ich nicht
 (...)“).  
