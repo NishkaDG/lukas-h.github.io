@@ -17,7 +17,7 @@ accent: "#f7f7e6" # accent color for blog column
 author: "Lukas Himsel"
 address: "Manegoldstraße 11, 97346 Iphofen"
 region: "Deutschland"
-email: "lukas (at) himsel.me"
+email: "lukas@himsel.me"
 
 # google analytics tracking code, please change the value
 g_analytics: "UA-72004048-3"
