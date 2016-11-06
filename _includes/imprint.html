@@ -1,7 +1,10 @@
 <h4>Impressum</h4>
 <ul>
     <li>
-        <p>{{ site.address }}<br>{{ site.region }}<br><small>Adresse</small></p>
+        <p><address>{{ site.address }}</address><br><small>Adresse</small></p>
+    </li>
+    <li>
+        <p>{{ site.region }}<br><small>Region</small></p>
     </li>
     <li>
         <p>{{ site.email }}<br><small>Email</small></p>
@@ -11,7 +14,7 @@
     </li>
     {% if site.g_analytics %}
     <li>
-        <p><a href="https://www.google.com/analytics/terms/de.html">Google Analytics</a><br><small>Datenschutzbedingung</small></p>
+        <p><a href="https://www.google.com/analytics/terms/de.html">Google Analytics</a><br><small>Datenschutzerklärung</small></p>
     </li>
     {% endif %}
     <li>
