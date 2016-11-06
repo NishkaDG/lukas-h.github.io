@@ -26,7 +26,8 @@ h2, h3, h4, h5, h6{
     font-weight: 400;
 }
 small{
-    font-size: 14px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 13px;
 }
 a{
     text-decoration: none;
@@ -52,15 +53,10 @@ li{
     list-style-type: none;
     margin: 0;
 }
-.github-icon:hover{
-    color: #85d063;
-}
-.twitter-icon:hover{
-    color: #1da0f2;
-}
-.rss-icon:hover{
-    color: #f49c52;
-}
+.github-icon:hover{ color: #85d063; }
+.twitter-icon:hover{ color: #1da0f2; }
+.mail-icon:hover{ color: #db4646; }
+.rss-icon:hover{ color: #f49c52; }
 .btn{
     border: none;
     border-radius: 2px;
@@ -99,7 +95,8 @@ li{
 .chip{
     display: inline-block;
     height: 30px;
-    font-size: 14px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 13px;
     font-weight: 500;
     line-height: 30px;
     padding: 0 10px;
@@ -107,8 +104,4 @@ li{
     background-color: #fff;
     margin-bottom: 5px;
     margin-right: 5px;
-}
-.tag{
-    font-size: 14px;
-    font-family: 'Share Tech Mono', monospace;
 }
