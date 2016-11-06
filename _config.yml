@@ -15,8 +15,7 @@ github_username:  lukas-h
 accent: "#f7f7e6" # accent color for blog column
 
 author: "Lukas Himsel"
-address: "Manegoldstraße 11, 97346 Iphofen"
-region: "Deutschland"
+address: "Manegoldstraße 11<br>97346 Iphofen<br>DE"
 email: "lukas@himsel.me"
 
 # google analytics tracking code, please change the value
