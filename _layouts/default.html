@@ -14,8 +14,11 @@
 				<div class="unit whole" id="/contact">
 					<a href="https://twitter.com/{{ site.twitter_username }}" class="twitter-icon btn"><i class="icon ion-social-twitter"></i></a>
 					<a href="https://github.com/{{ site.github_username }}" class="github-icon btn"><i class="icon ion-social-github"></i></a>
-					<a href="https://github.com/{{ site.github_username }}" class="mail-icon btn"><i class="icon ion-mail"></i></a>
+					<a href="mailto:{{ site.email }}" class="mail-icon btn"><i class="icon ion-email"></i></a>
 					<a href="feed.xml" class="rss-icon btn"><i class="icon ion-social-rss"></i></a>
+				</div>
+				<div class="unit whole hide-on-mobiles" id="/projects">
+					{% include projects.html %}
 				</div>
 				<div class="unit whole hide-on-mobiles" id="/impressum">
 					{% include imprint.html %}
@@ -29,9 +32,13 @@
 				</div>
 				{{ content }}
 				<div class="unit whole" id="/subscribe">
-					<p><a href="feed.xml">RSS</a> & <a href="atom.xml">ATOM</a> Feed<br>Built with Jekyll, Code on <a href="https://github.com/lukas.h/onepage"><i class="icon ion-social-github"></i>Github</a></p>
+					<p><a href="feed.xml">RSS</a> & <a href="atom.xml">ATOM</a> Feed<br>Built with Jekyll, Code on <a href="https://github.com/lukas.h/onepage">Github</a></p>
 				</div>
 			</div>
+		</div>
+
+		<div class="unit whole hide-on-desktops" id="/projects">
+			{% include projects.html %}
 		</div>
 		<div class="unit whole hide-on-desktops" id="/impressum">
 			{% include imprint.html %}
