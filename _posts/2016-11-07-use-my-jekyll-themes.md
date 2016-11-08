@@ -11,5 +11,5 @@ I have created two easy configurable and minimal themes. You can use them how yo
 [See the demo](http://himsel.me/material-theme/) or the [Github Project](https://github.com/lukas-h/material-theme)
 
 ## single-page theme (*used here*)
-This theme is only one html page, but with all the features, you would expect from a blog.  
+This theme generates only one html page, but with all the features, you would expect from a blog.  
 [Github Project](https://github.com/lukas-h/onepage) 
