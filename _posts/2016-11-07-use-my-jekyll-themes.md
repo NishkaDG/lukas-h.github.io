@@ -4,7 +4,7 @@ title:  "Use my jekyll themes"
 date:   2016-11-07 22:03:00 +0200
 ---
 
-Jekyll](http://jekyllrb.com/) is a widely used static site generator that powers lots of websites, also this one.
+[Jekyll](http://jekyllrb.com/) is a widely used static site generator that powers lots of websites, also this one.
 I have created two easy configurable and minimal themes. You can use them how you want. They are open source on Github - both licensed under MIT.
 
 ## fresh material based theme
