@@ -12,7 +12,7 @@ baseurl: ""
 url: "http://himsel.me" # replace by your site's url
 twitter_username: lukashimsel
 github_username:  lukas-h
-accent: "#d3fff3" # accent color for blog column
+accent: "#f7f7e6" # accent color for blog column
 
 author: "Lukas Himsel"
 address: "Manegoldstraße 11<br>97346 Iphofen, DE"
