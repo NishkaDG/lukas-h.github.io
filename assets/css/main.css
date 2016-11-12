@@ -5,6 +5,12 @@
   src: url(../fonts/pf.ttf) format('truetype');
 }
 @font-face {
+  font-family: 'Playfair Display SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/pfsc.ttf) format('truetype');
+}
+@font-face {
   font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
@@ -14,6 +20,9 @@ body{
     font-family: 'Playfair Display', serif;
     font-size: 16.5px;
 }
+.blog-column{
+     border-radius: 15px;
+}
 h1{ font-size: 42px;
    font-weight: 500; }
 h2{ font-size: 32px; }
@@ -22,6 +31,7 @@ h4{ font-size: 24px; }
 h5{ font-size: 20px; }
 h6{ font-size: 18px; }
 h2, h3, h4, h5, h6{
+    font-family: 'Playfair Display SC', serif;
     margin: 20px 5px 0px;
     font-weight: 400;
 }
@@ -53,10 +63,18 @@ li{
     list-style-type: none;
     margin: 0;
 }
-.github-icon:hover{ color: #85d063; }
-.twitter-icon:hover{ color: #1da0f2; }
-.mail-icon:hover{ color: #db4646; }
-.rss-icon:hover{ color: #f49c52; }
+.github-icon:hover, .github-icon:focus, .github-icon:active{
+    color: #85d063;
+}
+.twitter-icon:hover, .twitter-icon:focus, .twitter-icon:active{
+    color: #1da0f2;
+}
+.mail-icon:hover, .mail-icon:focus, .mail-icon:active{
+    color: #db4646;
+}
+.rss-icon:hover, .rss-icon:focus, .rss-icon:active{
+    color: #f49c52;
+}
 .btn{
     border: none;
     border-radius: 2px;
