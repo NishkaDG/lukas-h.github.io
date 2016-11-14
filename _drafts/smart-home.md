@@ -9,11 +9,8 @@ Zur Zeit sieht das zwar nicht danach aus, dass man mit seinen Toaster höflich f
 Sprachassistenten sind aber trotzdem im Kommen.
 Das Gerät Google Home ist ein Kabelloser Lautsprecher mit Google-Now Sprachsteuerung, der nicht nur Musik spielt, sondern auch
 die anderen Lautsprechersysteme, Google-Cast-Geräte und noch viel mehr ansteuert. Das Äquivalent von Amazon dazu ist Amazon Echo mit
-Alexa als Sprachinterface. Natürlich gibt es auch weitere Möglichkeiten, wie z.B. Raspberry Pi, der mit vielen Elektrobauteilen
+Alexa als Sprachinterface. Natürlich gibt es auch weitere Möglichkeiten, wie z.B. Raspberry Pi, der mit sehr vielen Elektrobauteilen
  und deutlich mehr Zeitaufwand für die Hausautomatisierung fit gemacht werden kann.
 
-- Amazon setzt auf Miracast für Videoübertragung, für Audio können Lautsprecher per Bluetooth angesteuert werden, bzw. das Echo kann auch per Bluetooth vom Handy, Laptop
-angesteuert werden.  
-
-- Google hat Chromecasts, Chromecast Audio und der normale, die perfekt für Fernseher, oder für Anlage sind. 
--> nicht so teuer einen Chromecast AUdio an eine Anlage zu hängen, wie einen Amazon Echo Dot...  
+Ein wichtiges Feature ist für mich die kabellose Videoübertragung auf einen Fernseher o.Ä., wie beim Chromecast. Dieser arbeitet natürlich im Zusammenspiel mit dem Google Home.
+Amazon hat für diese Funktion ein sehr ähnliches Gerät, den Fire TV, bei dem man per Miracast, eine alternative Technologie, auch Videos auf das TV-Gerät übertragen kann.
