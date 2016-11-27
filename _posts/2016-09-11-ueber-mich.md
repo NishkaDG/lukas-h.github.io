@@ -12,9 +12,9 @@ an mehreren [Projekten](https://github.com/opendata-heilbronn) rund um Open-Data
 Mein Lieblingsinstrument ist das Klavier, das ich auch selbst spiele
 (wie schon erwähnt).  
 Ich spiele meist klassische Musik; hören tu ich aber auch neuere Musik.  
-Im Blog werden sich einige Artikel zum Thema Klavier und Musik finden.  
+Im Blog werden sich einige Texte zum Thema Klavier und Musik finden.  
 
 Ich werde mich auch um Artikel über meine Projekte,
-Webtechnologien, Linux, BSD, C, Open-Source, Open-Data und viele weitere Themen bemühen.
+Webtechnologien (also **nicht** die Tätigkeit am Webstuhl), Linux, BSD, C, Open-Source, Open-Data und viele weitere Themen bemühen.
 Wenn ich mal Zeit finde, schreibe ich auch ein paar Zeilen über dies und das. 
 Ganz vergessen; Material Design ist etwas, dass ich seit neuerer Zeit sehr feiere.
