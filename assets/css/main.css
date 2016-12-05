@@ -134,9 +134,8 @@ li{
     margin-right: 5px;
 }
 code, kbd{
-    background: #f2f7fa;
+    background: #fff;
     border-radius: 3px;
-    color: #1486cc;
     font-family: 'Share Tech Mono', monospace;
     font-size: 15px;
     padding: 2px 4px;
