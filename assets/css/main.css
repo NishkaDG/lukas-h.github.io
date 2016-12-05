@@ -136,6 +136,7 @@ li{
 code, kbd{
     background: #fff;
     border-radius: 3px;
+    line-height: 16.5px;
     font-family: 'Share Tech Mono', monospace;
     font-size: 15px;
     padding: 2px 4px;
