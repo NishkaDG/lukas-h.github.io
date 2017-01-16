@@ -5,10 +5,9 @@ title: unabhängiger
 
 Ich habe gemerkt, dass ich in letzter Zeit wieder ziemlich abhängig von Googles Diensten geworden bin. Auf dem Smartphone mit Android wird es extra schwer gemacht, auf Services von eben dieser Firma zu verzichten.
 
-- Die *Websuche*: Auf dem Telefon sitzt die Suchleiste mit Google 	direkt auf der Startseite. Auch im hauseigenen Browser fehlt die Möglichkeit die 	Suchmaschine auf beispielsweise Duckduckgo umzustellen. 
-	Mal sehen wie das klappt, Firefox und die Duckduckgo-App sollen erstmal die 		Google-App ersetzen.
+- Die *Websuche*: Auf dem Telefon sitzt die Suchleiste mit Google 	direkt auf der Startseite. Auch im hauseigenen Browser fehlt die Möglichkeit die 	Suchmaschine auf beispielsweise Duckduckgo umzustellen. Firefox und die Duckduckgo-App sollen erstmal Google ersetzen.
 
-- Um auch wirklich keine Google-Suche auf der Startseite zu haben kommt ein *Launcher*. 	Ich nehme Arrow von Microsoft - Open Source leider Falschansage!
+- Um auch wirklich keine Sprach-Suche auf der Startseite zu haben kommt ein *Launcher*. 	Ich nehme Arrow von Microsoft - Open Source leider Falschansage!
 
 - Googles *Fotoapp* ersetze ich mit einer ziemlich schlanken [Alternative (Simple-Gallery)](https://github.com/SimpleMobileTools/Simple-Gallery).
 
