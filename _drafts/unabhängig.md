@@ -1,19 +1,19 @@
 ---
 layout: post
-title: unabhängig
+title: unabhängiger
 ---
-Ich habe gemerkt, dass ich in letzter Zeit wieder ziemlich abhängig von Google und seinen Diensten geworden bin. Auf dem Smartphone von Google wird es extra schwer gemacht, auf Dienste von eben nicht dieser Firma zu verzichten.
 
-Das erste Problem ist die Websuche. Auf dem Telefon sitzt die Suchleiste mit Google direkt auf der Startseite. Auch im hauseigenen Browser fehlt die Möglichkeit die Suchmaschine auf beispielsweise Duckduckgo zu stellen. 
-Mal sehen wie das klappt, Firefox und die Duckduckgo App sollen erstmal die Google-App ersetzen.
+Ich habe gemerkt, dass ich in letzter Zeit wieder ziemlich abhängig von Googles Diensten geworden bin. Auf dem Smartphone mit Android wird es extra schwer gemacht, auf Services von eben dieser Firma zu verzichten.
 
-Um auch wirklich keine Google-Suche auf der Startseite zu haben kommt ein Launcher. Ich nehme da Arrow von Microsoft - Open Source: Falschansage!
+- Die *Websuche*: Auf dem Telefon sitzt die Suchleiste mit Google 	direkt auf der Startseite. Auch im hauseigenen Browser fehlt die Möglichkeit die 	Suchmaschine auf beispielsweise Duckduckgo umzustellen. 
+	Mal sehen wie das klappt, Firefox und die Duckduckgo-App sollen erstmal die 		Google-App ersetzen.
 
-Googles Fotoapp ersetze ich mit einer ziemlich schlanken [Alternative](https://github.com/SimpleMobileTools/Simple-Gallery).
+- Um auch wirklich keine Google-Suche auf der Startseite zu haben kommt ein *Launcher*. 	Ich nehme Arrow von Microsoft - Open Source leider Falschansage!
 
-Ganz um Google kommt man nicht herum, auf Android sowieso nicht, für das Gewissen kann trotzdem was tun, die voreingestellten Dienste sind einfach am komfortabelsten. 
+- Googles *Fotoapp* ersetze ich mit einer ziemlich schlanken [Alternative (Simple-Gallery)](https://github.com/SimpleMobileTools/Simple-Gallery).
 
-Selbst mit F-Droid ist es noch lange nicht möglich, für alles ein Open-Source Äquivalent zu bekommen - freie (bzw. FOSS) Alternativen sind rar.
+Ganz um Google kommt man nicht herum, auf Android sowieso nicht. Für das Gewissen kann trotzdem etwas getan werden.
+Aber selbst mit F-Droid ist es noch lange nicht möglich, für alles ein Open-Source Äquivalent zu bekommen - freie (bzw. FOSS) Alternativen sind rar.
 
-PS:
-Analytics ist jetzt auch von der Seite entfernt, nachdem sich die Leserzahlen bei ca. 50 pro Tag eingependelt hat. 
+**PS:  
+G-Analytics ist jetzt auch von meinem Blog entfernt** (nachdem sich die Leserzahlen bei ca. 50 pro Tag eingependelt haben.)
