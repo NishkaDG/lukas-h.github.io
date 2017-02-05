@@ -1,7 +1,7 @@
 ---
+title: Use my jekyll themes
+date: 2016-11-07 20:03:00 Z
 layout: post
-title:  "Use my jekyll themes"
-date:   2016-11-07 22:03:00 +0200
 ---
 
 [Jekyll](http://jekyllrb.com/) is a widely used static site generator that powers lots of websites, also this one.

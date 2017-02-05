@@ -1,8 +1,9 @@
 ---
-layout: post
 title: uPnP/DLNA zuhause
-date: 2016-11-27 22:00:00 +0200
+date: 2016-11-27 20:00:00 Z
+layout: post
 ---
+
 Wer einen Raspberry Pi oder ähnliches zuhause noch in der Ecke liegen hat, kann damit wunderbar seine altmodische Stereoanlage mit Klinke internetfähig machen. Zuhause habe ich so meine Anlage aufgewertet. Im Zusammenspiel mit meinem Medienserver funktioniert das wunderbar.  
 Mehr über [uPnP (Wikipedia)](https://de.m.wikipedia.org/wiki/Universal_Plug_and_Play).
 

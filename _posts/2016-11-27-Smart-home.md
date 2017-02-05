@@ -1,7 +1,7 @@
 ---
+title: Smart home
+date: 2016-11-27 19:00:00 Z
 layout: post
-title:  "Smart home"
-date:   2016-11-27 21:00:00 +0200
 ---
 
 Zur Zeit kommen vermehrt Geräte zur Hausautomatisierung auf den Markt - Google hat bei der diesjährigen I/O ihre Smart Home -Zentrale 'Home' gezeigt. Mit Sprachassistent an Bord kann es nicht nur Musik abspielen, sondern auch andere vernetzte Geräte ansteuern.

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: unabhängiger
+date: 2017-02-05 10:33:51.426000000 Z
+layout: post
 ---
 
 Ich habe gemerkt, dass ich in letzter Zeit wieder ziemlich abhängig von Googles Diensten geworden bin. Auf dem Smartphone mit Android wird es extra schwer gemacht, auf Services von eben dieser Firma zu verzichten.

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Stolpersteine in Heilbronn & Kitzingen
+date: 2017-02-05 10:33:51.326000000 Z
+layout: post
 ---
+
 Durch Umwege kam ich an den Auftrag, die Webpräsenz des Vereins, der sich um die Stolpersteine in Heilbronn kümmert, zu erneuern. Die [Website](http://stolpersteine-heilbronn).
 
 # Open Data?
