@@ -1,0 +1,9 @@
+- name: Stolpersteine Heilbronn
+  link: "http://stolpersteine-heilbronn.de"
+  description: "Website für das Projekt Stolpersteine"
+- name: WOB Mototrade
+  link: "https://wob-mototrade.de"
+  description: "Fachmesse für die Motorradbranche"
+- name: World of Bike
+  link: "https://world-of-bike.de"
+  description: "Das Motorrad-Branchenmagazin"
