@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<h2>Projekte</h2>
 <div class="grid">
 {% assign c = 0 %}{% assign d = 1 %}{% for p in site.data.works %}{% if d == 0 %}
 </div>
@@ -8,12 +9,14 @@ layout: default
 <div class="unit one-third">
 <div class="card">
     <div class="card-content">
-        <h3>{{ p.name }}<br><small>{{ p.description }}</small></h3>
+        <h3>{{ p.name }}</h3><p>{{ p.description }}</p>
     </div>
     <div class="card-action">
+        {% if p.link %}
         <a href="{{ p.link }}" class="btn"><i class="icon ion-link"></i> LINK</a>
+        {% endif %}
         {% if p.github %}
-        <a href="{{ p.link }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>        
+        <a href="{{ p.github }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>        
         {% endif %}
     </div>
 </div>
@@ -22,16 +25,17 @@ layout: default
 <div class="unit one-third">
 <div class="card">
     <div class="card-content">
-        <h3>{{ p.name }}<br><small>{{ p.description }}</small></h3>
+        <h3>{{ p.name }}</h3><p>{{ p.description }}</p>
     </div>
     <div class="card-action">
+        {% if p.link %}
         <a href="{{ p.link }}" class="btn"><i class="icon ion-link"></i> LINK</a>
+        {% endif %}
         {% if p.github %}
-        <a href="{{ p.link }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>        
+        <a href="{{ p.github }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>        
         {% endif %}
     </div>
 </div>
 </div>
 {% endif %}{% assign c=c | plus:1 %}{% assign d=c | modulo:3 %}{% endfor %}
 </div>
-{% for %}

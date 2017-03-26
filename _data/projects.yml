@@ -1,9 +1,14 @@
-- name: Code for Heilbronn
-  link: "https://github.com/opendata-heilbronn"
-  description: "Open-data Initiative rund um die Stadt Heilbronn"
-- name: onepage
-  link: "https://github.com/lukas-h/onepage"
-  description: "this jekyll theme"
-- name: toy-http
-  link: "https://github.com/lukas-h/toy-http"
-  description: "test http server"
+- name: Stolpersteine
+  link: "http://stolpersteine-heilbronn.de"
+  github: "https://github.com/opendata-heilbronn/stolpersteine"
+  description: "Website für das Projekt Stolpersteine"
+- name: WOB Mototrade
+  link: "https://wob-mototrade.de"
+  description: "Fachmesse für die Motorradbranche"
+- name: World of Bike
+  link: "https://world-of-bike.de"
+  description: "Das Motorrad-Branchenmagazin"
+- name: Brzrkr.de
+  link: "https://brzrkr.de"
+  image: "/images/brzrkr.png"
+  description: "Fußball-E-Sport"

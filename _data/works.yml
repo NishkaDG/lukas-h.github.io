@@ -1,17 +1,20 @@
-- name: Stolpersteine
-  link: "http://stolpersteine-heilbronn.de"
-  github: "https://github.com/opendata-heilbronn/stolpersteine"
-  description: "Website für das Projekt Stolpersteine"
-- name: WOB Mototrade
-  link: "https://wob-mototrade.de"
-  description: "Fachmesse für die Motorradbranche"
-- name: World of Bike
-  link: "https://world-of-bike.de"
-  description: "Das Motorrad-Branchenmagazin"
-- name: Brzrkr.de
-  link: "https://brzrkr.de"
-  image: "/images/brzrkr.png"
-  description: "Fußball-E-Sport"
-- name: Open Source Projekte
-  link: "https://github.com/lukas-h"
-  description: ""
+- name: Code for Heilbronn
+  github: "https://github.com/opendata-heilbronn"
+  link: http://codefor.de/heilbronn
+  description: "Open-data Initiative rund um die Stadt Heilbronn"
+- name: onepage
+  github: "https://github.com/lukas-h/onepage"
+  description: "a jekyll theme"
+- name: toy-http
+  github: "https://github.com/lukas-h/toy-http"
+  description: "test http server"
+- name: material-theme
+  github: "https://github.com/lukas-h/material-theme"
+  description: "another jekyll theme"
+  link: "http://himsel.me/material-theme/"
+- name: license badges
+  link: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+  description: a list of markdown license badges for README files
+- name: C Collection
+  description: "collection of tools and snippets written in C"
+  github: "https://github.com/lukas-h/c"
