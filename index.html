@@ -1,26 +1,37 @@
 ---
 layout: default
 ---
-
-{% for post in site.posts %}
-<div id="{{ post.date | date: "%F-%H" }}" class="unit whole align-left post">
-	<article itemscope itemtype="http://schema.org/BlogPosting">
-		<h2>{{ post.title }}<br>
-		<small class="chip">{{ post.date | date: "%b %-d, %Y" }}</small>
-		<a class="chip" href="https://twitter.com/intent/tweet?text={{ post.title | cgi_escape }}&url={{ post.date | date: "%F-%H" | prepend: "#" | prepend: site.baseurl | prepend: site.url | cgi_escape }}"><i class="icon ion-social-twitter"></i> TWEET</a>
-		<a class="chip" href="{{ site.url }}{{ site.baseurl }}#{{ post.date | date: "%F-%H" }}"><i class="icon ion-android-share-alt"></i> LINK</a>
-		</h2>
-		
-		<div class="post-content">
-			{{ post.content }}
-		</div>
-
-		{% if post.author %}
-		<span class="chip" itemprop="author" itemscope itemtype="http://schema.org/Person">
-			<span itemprop="name">Artikel von {{ post.author }}</span>
-		</span>
-		{% endif %}
-
-	</article>
+<div class="grid">
+{% assign c = 0 %}{% assign d = 1 %}{% for p in site.data.works %}{% if d == 0 %}
 </div>
-{% endfor %}
+<div class="grid">
+<div class="unit one-third">
+<div class="card">
+    <div class="card-content">
+        <h3>{{ p.name }}<br><small>{{ p.description }}</small></h3>
+    </div>
+    <div class="card-action">
+        <a href="{{ p.link }}" class="btn"><i class="icon ion-link"></i> LINK</a>
+        {% if p.github %}
+        <a href="{{ p.link }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>        
+        {% endif %}
+    </div>
+</div>
+</div>
+{% else %}
+<div class="unit one-third">
+<div class="card">
+    <div class="card-content">
+        <h3>{{ p.name }}<br><small>{{ p.description }}</small></h3>
+    </div>
+    <div class="card-action">
+        <a href="{{ p.link }}" class="btn"><i class="icon ion-link"></i> LINK</a>
+        {% if p.github %}
+        <a href="{{ p.link }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>        
+        {% endif %}
+    </div>
+</div>
+</div>
+{% endif %}{% assign c=c | plus:1 %}{% assign d=c | modulo:3 %}{% endfor %}
+</div>
+{% for %}

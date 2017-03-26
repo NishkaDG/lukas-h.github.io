@@ -1,5 +1,6 @@
-- name: Stolpersteine Heilbronn
+- name: Stolpersteine
   link: "http://stolpersteine-heilbronn.de"
+  github: "https://github.com/opendata-heilbronn/stolpersteine"
   description: "Website für das Projekt Stolpersteine"
 - name: WOB Mototrade
   link: "https://wob-mototrade.de"
@@ -9,7 +10,8 @@
   description: "Das Motorrad-Branchenmagazin"
 - name: Brzrkr.de
   link: "https://brzrkr.de"
-  description: "Fußball-E-Sport'
+  image: "/images/brzrkr.png"
+  description: "Fußball-E-Sport"
 - name: Open Source Projekte
   link: "https://github.com/lukas-h"
   description: ""

@@ -1,7 +1,6 @@
 ---
 title: Markdown License Badges
 date: 2016-09-06 11:04:00 Z
-layout: post
 ---
 
 I am a person who spends for every hour of coding the same amount of time on creating READMEs
