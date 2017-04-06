@@ -15,5 +15,5 @@ Ich habe gemerkt, dass ich in letzter Zeit wieder ziemlich abhängig von Googles
 Ganz um Google kommt man nicht herum, auf Android sowieso nicht. Für das Gewissen kann trotzdem etwas getan werden.
 Aber selbst mit F-Droid ist es noch lange nicht möglich, für alles ein Open-Source Äquivalent zu bekommen - freie (bzw. FOSS) Alternativen sind rar.
 
-**PS:**  
-G-Analytics ist jetzt auch von meinem Blog entfernt** (nachdem sich die Leserzahlen bei ca. 50 pro Tag eingependelt haben.)
+**PS: G-Analytics ist jetzt auch von meinem Blog entfernt**  
+(nachdem sich die Leserzahlen bei ca. 50 pro Tag eingependelt haben.)
