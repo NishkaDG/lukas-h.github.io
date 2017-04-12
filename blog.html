@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="align-center">
+<a class="btn" href="index.html">PROJEKTE</a>
+<a class="btn disabled" href="#">BLOG</a>
+</div>
+<div class="card align-left">
+<div class="card-content">
+					<h2>Blog</h2>
+{% for post in site.posts %}
+<div id="{{ post.date | date: "%F-%H" }}" class="align-left post">
+	<article itemscope itemtype="http://schema.org/BlogPosting">
+		<h3>{{ post.title }}<br>
+		<small class="chip">{{ post.date | date: "%b %-d, %Y" }}</small>
+		<a class="chip" href="https://twitter.com/intent/tweet?text={{ post.title | cgi_escape }}&url={{ post.date | date: "%F-%H" | prepend: "#" | prepend: site.baseurl | prepend: site.url | cgi_escape }}"><i class="icon ion-social-twitter"></i> TWEET</a>
+		<a class="chip" href="{{ site.url }}{{ site.baseurl }}#{{ post.date | date: "%F-%H" }}"><i class="icon ion-android-share-alt"></i> LINK</a>
+		</h3>
+		
+		<article class="post-content">
+			{{ post.content }}
+		</article>
+
+	</article>
+</div>
+{% endfor %}
+</div>
+<div class="card-action">
+	<a href="feed.xml" class="btn"><i class="icon ion-social-rss"></i> RSS</a><a href="atom.xml" class="btn"><i class="icon ion-social-rss"></i> ATOM</a>
+</div>
+</div>
+
