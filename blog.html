@@ -6,9 +6,9 @@ layout: default
 <a class="btn" href="index.html">PROJEKTE</a>
 <a class="btn disabled" href="#">BLOG</a>
 </div>
+<h2>Blog</h2>
 <div class="card align-left">
 <div class="card-content">
-					<h2>Blog</h2>
 {% for post in site.posts %}
 <div id="{{ post.date | date: "%F-%H" }}" class="align-left post">
 	<article itemscope itemtype="http://schema.org/BlogPosting">
