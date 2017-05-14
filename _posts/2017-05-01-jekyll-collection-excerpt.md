@@ -1,7 +1,9 @@
 ---
-layout: post
 title: jekyll excerpt-separator für collections und pages
+date: 2017-05-01 00:00:00 Z
+layout: post
 ---
+
 Bei Jekyll gibt es sogenannte Excerpt-Separatoren, die man für Posts festlegt um den ersten Absatz des Textes zu bekommen. Dies kann im Markdown beispielsweise eine Trennlinie wie `---` sein. Leider ist dieses Feature nur für Posts verfügbar und nicht für Collections.
 Mit ein bisschen Liquid-Tricks kriegt man das zum Glück auch für Collections und andere Pages hin:
 
