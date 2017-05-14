@@ -12,8 +12,6 @@ Die Website
 
 Generalisiert, um es für alle Städte zu ermöglichen... Auf Github - bei Opendata-heilbronn
 
-Jetzt auch mit dem Verein in Kitzingen verknüpft, auch auf Kitzingen übertragen...
-
 Ressourcen:
 
 KT
