@@ -2,6 +2,9 @@
 - name: WOB Mototrade
   link: "http://wob-mototrade.de"
   description: "Fachmesse für die Motorradbranche (Realisation der Website)"
+- name: a. v. & m. Verlag
+  link: "http://avmverlag.de"
+  description: "Website"
 - name: Code for Heilbronn
   github: "https://github.com/opendata-heilbronn"
   link: http://codefor.de/heilbronn
@@ -16,6 +19,3 @@
 - name: C Collection
   description: "collection of tools and snippets written in C"
   github: "https://github.com/lukas-h/c"
-- name: Brzrkr.de
-  link: "https://brzrkr.de"
-  description: "Fußball-E-Sport (Webdesign)"
