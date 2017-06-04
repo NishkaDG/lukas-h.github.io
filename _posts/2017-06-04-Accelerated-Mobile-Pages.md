@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accelerated Mobile Pages
+title: Accelerated Mobile Pages und Jekyll
 ---
 
 Ich habe meine Website jetzt komplett auf [Accelerated Mobile Pages (AMP)](https://ampproject.com) umgestellt.
