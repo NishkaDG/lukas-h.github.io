@@ -12,4 +12,6 @@ I created a Gist on my Github with a bunch of License badges for including into 
 Simply copy and paste the badge with your selected License into the project's README.  
 If you are searching for a license badge, check it out and let me know, you like it!
 
+<script src="https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba.js"></script>
+
 [Here is the magic list!](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
