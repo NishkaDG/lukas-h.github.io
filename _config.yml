@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:month-:day-:year-:title:output_ext"
+    layout: post
+    author: Lukas Himsel
 safe: false
 markdown: kramdown
 highlighter: rouge

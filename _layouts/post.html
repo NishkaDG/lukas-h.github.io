@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="align-center">
+<a class="btn" href="index.html">PROJEKTE</a>
+<a class="btn" href="blog.html">BLOG</a>
+<a class="btn" href="impressum.html">IMPRESSUM</a>
+</div>
+<div class="card align-left">
+<div class="card-content">
+	<article itemscope itemtype="http://schema.org/BlogPosting">
+		<h3>{{ page.title }}<br>
+		<small class="chip">{{ page.date | date: "%b %-d, %Y" }}</small>
+		<a class="chip" href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}"><i class="icon ion-social-twitter"></i> TWEET</a>
+		<a class="chip" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"><i class="icon ion-android-share-alt"></i> LINK</a>
+		</h3>
+		
+		<article class="page-content">
+			{{ page.content }}
+		</article>
+
+	</article>
+    <div class="align-center">
+    {% if page.next.url %}
+                    <a class="btn " href="{{ page.next.url | prepend: site.baseurl }}">
+                        NÄCHSTER
+                    </a>
+                    {% else %}
+                    <a class="btn disabled">
+                        NÄCHSTER
+                    </a>
+                    {% endif %}
+                    {% if page.previous.url %}
+                    <a class="btn" href="{{ page.previous.url | prepend: site.baseurl }}">
+                        VORHERIGER
+                    </a>
+                    {% else %}
+                    <a class="btn disabled">
+                        VORHERIGER
+                    </a>
+                    {% endif %}
+    </div>
+</div>
+</div>

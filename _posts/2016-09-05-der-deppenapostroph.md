@@ -2,6 +2,7 @@
 title: Des armen Apostrophus‘ täglich Leid
 date: 2016-09-05 19:03:00 Z
 author: Stephan Krückel
+layout: post
 ---
 
 Es mag Leute geben, die Wort und Schrift so anwenden, wie sie generell durchs Leben zu streifen pflegen: Ein bisschen schludrig
