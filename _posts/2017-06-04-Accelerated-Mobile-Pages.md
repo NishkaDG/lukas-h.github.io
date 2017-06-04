@@ -28,7 +28,7 @@ In der Konfigurationsdatei von Jekyll (`_config.yml`) sind mehrere Html-Tags, di
 
 Im default-Layout werden dann mit dem [String-Filter `replace`](https://help.shopify.com/themes/liquid/filters/string-filters) bei `content` die entsprechenden Html-Tags ersetzt (wie man im ersten Code-Snippet sehen kann). 
 
-Im default-Layout findet man die Zeile `{% include head.html %}`. Damit wird das Template für den Html-Kopf eingebunden, welches so aussieht:
+Im default-Layout findet man die Zeile `include head.html`. Damit wird das Template für den Html-Kopf eingebunden, welches so aussieht:
 
 <script src="https://gist.github.com/lukas-h/4765166053040d59e51f888118333b0c.js"></script>
 
