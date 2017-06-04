@@ -44,3 +44,8 @@ Normalerweise verwendet man AMP nur, um bestimmte Teilbereiche der Website wie N
 Wenn man nur AMP-Versionen der Posts bei Jekyll erstellen möchte und **ohne** Github-Pages arbeitet, kann man den Plugin [jekyll-amp](https://github.com/juusaw/amp-jekyll) benutzen.
 
 Wenn man nur AMP-Versionen der Posts haben will (ohne die 'unbeschleunigten', normalen Versionen), kann man ein ähnliches Layout, wie hier im Artikel gezeigt, nur für die Posts (also als Datei `_layouts/post.html`) erstellen.
+
+*Mehr* zu AMP  
+[https://ampbyexample.com](ampbyexample.com)  
+[Gists in AMP einbinden](https://ampbyexample.com/components/amp-gist/)  
+[AMP Jekyll Theme](https://github.com/ageitgey/amplify)
