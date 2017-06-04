@@ -27,3 +27,12 @@ isolang: de
 exclude:
 - LICENSE
 - README.md
+replacements:
+- - '<img'
+  - '<amp-img'
+- - 'alt="" />'
+  - ' layout="responsive" height="300px" width="600px"></amp-img>'
+- - '<video'
+  - '<amp-video'
+- - '</video'
+  - '</amp-video'

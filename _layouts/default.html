@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ site.isolang }}" itemscope itemtype="http://schema.org/WebPage">
+<html ⚡ lang="{{ site.isolang }}" itemscope itemtype="http://schema.org/WebPage">
 {% include head.html %}
 
 <body class="wrap">
@@ -18,7 +18,11 @@ layout: compress
 			</div>
 		</div>
 		<div class="unit whole" id="content">
-			{{ content }}
+			{% assign pagecontent = content %}
+    		{% for replacement in site.replacements %}
+    		{% assign pagecontent = pagecontent | replace: replacement[0], replacement[1] %}
+    		{% endfor %}
+    		{{ pagecontent }}
 		</div>
 		<footer class="unit whole align-center">
 			<p>{{ site.description }}</p>
