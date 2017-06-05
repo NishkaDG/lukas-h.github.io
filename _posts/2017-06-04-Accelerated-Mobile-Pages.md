@@ -16,13 +16,14 @@ Damit mein Jekyll-Blog AMP unterstützt, muss das Layout angepasst werden, sowie
 
 Mein default-Layout (im Ordner `_layouts`) bei Jekyll sieht jetzt so aus:
 
-<script src="https://gist.github.com/lukas-h/ab8e997dbaa0e13b9c884d4570d9d7c7.js"></script>
+<amp-gist data-gistid="ab8e997dbaa0e13b9c884d4570d9d7c7"layout="fixed-height" height="250"></amp-gist>
+
 
 [Gist default.html](https://gist.github.com/lukas-h/ab8e997dbaa0e13b9c884d4570d9d7c7)  
 
 In der Konfigurationsdatei von Jekyll (`_config.yml`) sind mehrere Html-Tags, die durch AMP-Html-Tags ersetzt werden sollen, deklariert:
 
-<script src="https://gist.github.com/lukas-h/206b05564fcb15fdcbc8a438019fea8e.js"></script>
+<amp-gist data-gistid="206b05564fcb15fdcbc8a438019fea8e" layout="fixed-height" height="250"></amp-gist>
 
 [Gist: _config.yml](https://gist.github.com/lukas-h/206b05564fcb15fdcbc8a438019fea8e)
 
@@ -30,13 +31,12 @@ Im default-Layout werden dann mit dem [String-Filter `replace`](https://help.sho
 
 Im default-Layout findet man die Zeile `include head.html`. Damit wird das Template für den Html-Kopf eingebunden, welches so aussieht:
 
-<script src="https://gist.github.com/lukas-h/4765166053040d59e51f888118333b0c.js"></script>
+<amp-gist data-gistid="4765166053040d59e51f888118333b0c" layout="fixed-height" height="250"></amp-gist>
 
 [Gist head.html](https://gist.github.com/lukas-h/4765166053040d59e51f888118333b0c)  
 
 In dem Code-Snippet kann man sehen, dass AMP keine externen CSS-Dateien erlaubt. Stattdessen verwendet man ein inline-`style`-Tag mit dem Attribut `amp-custom` für alle CSS-Regeln.
-Wichtig ist zudem, die AMP-Javascript-Datei zu laden (`
-<script async src="https://cdn.ampproject.org/v0.js"></script>`)
+Wichtig ist zudem, die AMP-Javascript-Datei zu laden (`<script async src="https://cdn.ampproject.org/v0.js"></script>`)
 
 
 Normalerweise verwendet man AMP nur, um bestimmte Teilbereiche der Website wie News-Artikel oder Produkte bei einem Onlineshop zu 'beschleunigen'.
