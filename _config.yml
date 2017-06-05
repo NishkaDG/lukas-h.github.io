@@ -44,7 +44,7 @@ replacements:
   - "<amp-video"
 - - "</video"
   - "</amp-video"
-- - '<script src=\"https://gist.github.com/lukas-h/'
-  - '<amp-gist data-gistid=\"'
-- - '.js\"></script>'
-  - '\" layout="fixed-height" height="250"></amp-gist>'
+- - <script src=\"https://gist.github.com/lukas-h/
+  - <amp-gist data-gistid=\"
+- - .js\"></script>
+  - \" layout="fixed-height" height="250"></amp-gist>
