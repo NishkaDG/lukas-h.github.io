@@ -1,6 +1,6 @@
 ---
 title: material jekyll theme
-date: 2017-06-05 16:06:07.582000000 Z
+date: 2017-06-05 16:06:00 Z
 layout: post
 ---
 
@@ -30,7 +30,7 @@ Einige Websites, die die Theme benutzen:
 
 [asset.joshuaavalon.com](http://asset.joshuaavalon.com)
 
-Ganz viele Nutzer findet man so:
+Websites findet man so:  
 [https://www.google.de/search?q=jekyll+theme+by+lukas+himsel](https://www.google.de/search?q=jekyll+theme+by+lukas+himsel)
 
 Github Projekt: [lukas-h/material-theme](https://github.com/lukas-h/material-theme)
