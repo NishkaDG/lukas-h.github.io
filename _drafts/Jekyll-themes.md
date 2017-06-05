@@ -1,6 +1,7 @@
 ---
-layout: post
 title: material jekyll theme
+date: 2017-06-05 16:06:07.582000000 Z
+layout: post
 ---
 
 Ich habe gemerkt, dass eine meiner Jekyll-Themes (diese hier: [himsel.me/material-theme](http://himsel.me/material-theme)) oft benutzt wird.
