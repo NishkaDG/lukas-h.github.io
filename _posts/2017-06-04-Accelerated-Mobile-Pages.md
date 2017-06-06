@@ -14,9 +14,9 @@ Da ich gerade bei Projekten mit AMP, in Verbindung mit [Jekyll](http://jekyllrb.
 
 Damit mein Jekyll-Blog AMP unterstützt, muss das Layout angepasst werden, sowie einige HTML-Tags mit den AMP-Äquivalenten ausgetauscht werden.
 
-Mein default-Layout (im Ordner `_layouts`) bei Jekyll sieht jetzt so aus:
+Mein default-Layout (im Ordner `_layouts`) bei Jekyll sieht jetzt so aus:  
 
-<amp-gist data-gistid="ab8e997dbaa0e13b9c884d4570d9d7c7"layout="fixed-height" height="250"></amp-gist>
+<amp-gist data-gistid="ab8e997dbaa0e13b9c884d4570d9d7c7" layout="fixed-height" height="250"></amp-gist>
 
 [Gist default.html](https://gist.github.com/lukas-h/ab8e997dbaa0e13b9c884d4570d9d7c7)  
 
