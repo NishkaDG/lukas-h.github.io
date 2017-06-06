@@ -18,7 +18,6 @@ Mein default-Layout (im Ordner `_layouts`) bei Jekyll sieht jetzt so aus:
 
 <amp-gist data-gistid="ab8e997dbaa0e13b9c884d4570d9d7c7"layout="fixed-height" height="250"></amp-gist>
 
-
 [Gist default.html](https://gist.github.com/lukas-h/ab8e997dbaa0e13b9c884d4570d9d7c7)  
 
 In der Konfigurationsdatei von Jekyll (`_config.yml`) sind mehrere Html-Tags, die durch AMP-Html-Tags ersetzt werden sollen, deklariert:
