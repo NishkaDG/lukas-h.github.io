@@ -13,7 +13,7 @@ layout: default
 		
 		<article class="post-content">
 			{{ post.content | strip_html | truncatewords: 30, '' }}
-			<br><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="btn">MEHR LESEN</a>
+			<br><a href="{{ site.baseurl }}{{ post.url }}" class="btn">MEHR LESEN</a>
 		</article>
 </div>
 {% endfor %}
