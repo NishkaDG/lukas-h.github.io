@@ -1,0 +1,21 @@
+---
+layout: default
+title: Kategorien
+---
+
+<div class="card">
+<div class="card-content">
+<h2>{{ page.title }}</h2>
+{% for category in site.categories %}
+<h3 class="chip">{{ category[0] }}</h3>
+<p>
+{% for p in category[1] %}
+<a href="{{ p.url }}">{{ p.title }}</a><br>
+{% endfor %}
+</p>
+{% endfor %}
+</div>
+<div class="card-action">
+<a href="{{ site.baseurl }}/blog.html" class="btn">BLOG</a>
+</div>
+</div>

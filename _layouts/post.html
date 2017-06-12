@@ -8,6 +8,25 @@ layout: default
 	<article itemscope itemtype="http://schema.org/BlogPosting">
         <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://google.com/article"/>
     
+{% if page.images %}
+{% assign size = page.images | size %}
+{% if size == 1 and page.images[0] == '/uploads/sample.png' %}
+
+{% else %}
+<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>    
+
+<amp-carousel width="400"
+  height="200"
+  layout="responsive"
+  type="slides">
+{% for image in page.images %}
+<amp-img src="{{ site.baseurl }}{{ image }}"layout="fixed-height" height="400">
+</amp-img>
+{% endfor %}
+</amp-carousel>
+{% endif %}
+{% endif %}
+
 		<h3 itemprop="headline">{{ page.title }}<br>
         <meta itemprop="datePublished" content="{{ page.date | date_to_xml_schema }}"/>
         <meta itemprop="dateModified" content="{{ page.date | date_to_xml_schema }}"/>
