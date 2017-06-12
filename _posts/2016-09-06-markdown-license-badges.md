@@ -1,6 +1,10 @@
 ---
 title: Markdown License Badges
 date: 2016-09-06 11:04:00 Z
+categories:
+- github
+- open-source
+- project
 layout: post
 ---
 
