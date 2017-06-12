@@ -1,6 +1,8 @@
 ---
 title: Advanced JavaFX (Ironie)
-date: 2017-02-05 10:33:51.397000000 Z
+date: 2017-02-05 10:33:00 Z
+categories:
+- java
 layout: post
 ---
 
