@@ -1,6 +1,11 @@
 ---
 title: Visuelle Editoren und CMS für Jekyll
-date: 2017-05-14 09:22:53.766000000 Z
+date: 2017-05-14 09:22:00 Z
+categories:
+- github
+- open-source
+- jekyll
+- CMS
 layout: post
 ---
 
