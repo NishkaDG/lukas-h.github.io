@@ -1,6 +1,6 @@
 ---
 title: Mein überarbeiteter Blog
-date: 2017-06-04 00:00:00 Z
+date: 2017-06-12 00:00:00 Z
 categories:
 - html
 - jekyll
