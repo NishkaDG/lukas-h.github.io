@@ -1,6 +1,11 @@
 ---
 title: material jekyll theme
 date: 2017-06-05 16:06:00 Z
+categories:
+- github
+- open-source
+- project
+- jekyll
 layout: post
 ---
 
