@@ -48,5 +48,5 @@ replacements:
   - <amp-gist data-gistid=\"
 - - .js\"></script>
   - \" layout="fixed-height" height="250"></amp-gist>
-- - 'id="amp"'
-  - 'id="a-m-p"'
+- - id="amp"
+  - id="a-m-p"
