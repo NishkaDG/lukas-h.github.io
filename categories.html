@@ -7,12 +7,14 @@ title: Kategorien
 <div class="card-content">
 <h2>{{ page.title }}</h2>
 {% for category in site.categories %}
+<div id="{{ category[0] }}">
 <h3 class="chip">{{ category[0] }}</h3>
 <p>
 {% for p in category[1] %}
 <a href="{{ p.url }}">{{ p.title }}</a><br>
 {% endfor %}
 </p>
+</div>
 {% endfor %}
 </div>
 <div class="card-action">

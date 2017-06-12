@@ -55,6 +55,11 @@ layout: default
             </div>
             <meta itemprop="name" content="Lukas Himsel">
         </div>
+        <p>
+            {% for cat in page.categories %}
+            <a href="{{ site.baseurl }}/categories.html#{{ cat }}" class="chip">{{ cat }}</a>
+            {% endfor %}
+        </p>
 	</article>
 </div>
     <div class="card-action align-center">
