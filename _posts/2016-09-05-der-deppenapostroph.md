@@ -1,6 +1,8 @@
 ---
 title: Des armen Apostrophus‘ täglich Leid
 date: 2016-09-05 19:03:00 Z
+categories:
+- Sprache
 author: Stephan Krückel
 layout: post
 ---
