@@ -1,6 +1,8 @@
 ---
 title: Neueröffnung der Verkaufsräume bei Seiler
 date: 2016-09-26 15:30:00 Z
+categories:
+- Sprache
 layout: post
 ---
 
