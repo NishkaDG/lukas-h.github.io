@@ -1,6 +1,9 @@
 ---
 title: jekyll excerpt-separator für collections und pages
 date: 2017-05-01 00:00:00 Z
+categories:
+- jekyll
+- github
 layout: post
 ---
 
