@@ -1,6 +1,10 @@
 ---
 title: Smart home
 date: 2016-11-27 19:00:00 Z
+categories:
+- uPNP
+- smart-home
+- project
 layout: post
 ---
 
