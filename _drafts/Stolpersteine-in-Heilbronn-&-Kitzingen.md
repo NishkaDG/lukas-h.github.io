@@ -1,6 +1,12 @@
 ---
 title: Stolpersteine in Heilbronn & Kitzingen
-date: 2017-02-05 10:33:51.326000000 Z
+date: 2017-02-05 10:33:00 Z
+categories:
+- html
+- open-source
+- open-data
+- github
+- project
 layout: post
 ---
 
