@@ -1,6 +1,12 @@
 ---
 title: Accelerated Mobile Pages und Jekyll
 date: 2017-06-04 00:00:00 Z
+categories:
+- github
+- html
+- open-source
+- jekyll
+- amp
 layout: post
 ---
 
