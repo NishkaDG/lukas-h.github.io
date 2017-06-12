@@ -1,6 +1,10 @@
 ---
 title: uPnP/DLNA zuhause
 date: 2016-11-27 20:00:00 Z
+categories:
+- project
+- uPNP
+- smart-home
 layout: post
 ---
 
