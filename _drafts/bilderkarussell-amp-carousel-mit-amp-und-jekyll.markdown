@@ -19,4 +19,6 @@ Im nächsten Gist sieht man, wie ein Karussell mit AMP aussieht. Einfach den Cod
 
 <script src="https://gist.github.com/lukas-h/bb49c4d4b2ba5c6e480115c246b24a64.js"></script>
 
-Dieser Quellcode muss einfach in das Layout `post` eingefügt werden.
+Wichtig ist, in der Seiten-Konfiguration noch festzulegen, dass jeder Post ein yml-Array mit dem Namen `images` hat.
+
+<script src="https://gist.github.com/lukas-h/008ac2715b56fcd5807c3880e20b507a.js"></script>
