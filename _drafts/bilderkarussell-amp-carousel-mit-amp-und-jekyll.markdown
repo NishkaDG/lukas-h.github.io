@@ -11,8 +11,11 @@ In meinem Blog habe ich schon beschrieben, [wie man eine Seite mit Jekyll und AM
 
 Für mein Beispiel benutze ich die [vorgefertigte AMP-Komponente `amp-carousel`](https://ampbyexample.com/components/amp-carousel/). 
 
-Als erstes muss man die Komponente in den HTML-Kopf (Achtung: muss zwingend im `<head>` sein) hinzufügen:
+Als erstes muss man die Komponente in den HTML-Kopf (Achtung: muss zwingend im `<head>` sein) hinzufügen. In dem Code-Beispiel wird gecheckt, ob es sich um das Layout `post` handelt, damit Jekyll die AMP-Komponente nur da einsetzt, wo sie auch gebraucht wird.
+
 <script src="https://gist.github.com/lukas-h/ab21ad318ed71107046ea8478d8ddcdf.js"></script>
+
+Im nächsten Gist sieht man, wie ein Karussell mit AMP aussieht. Einfach den Code in das Layout `post` einfügen.
 
 <script src="https://gist.github.com/lukas-h/bb49c4d4b2ba5c6e480115c246b24a64.js"></script>
 
