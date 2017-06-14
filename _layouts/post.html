@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<script async custom-element="amp-gist" src="https://cdn.ampproject.org/v0/amp-gist-0.1.js"></script>
 <div class="card align-left">
 <div class="card-content">
 	<article itemscope itemtype="http://schema.org/BlogPosting">
@@ -12,9 +11,7 @@ layout: default
 {% assign size = page.images | size %}
 {% if size == 1 and page.images[0] == '/uploads/sample.png' %}
 
-{% else %}
-<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>    
-
+{% else %} 
 <amp-carousel width="400"
   height="200"
   layout="responsive"
