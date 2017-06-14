@@ -9,11 +9,10 @@ categories:
 layout: post
 ---
 
-Ich habe gemerkt, dass eine meiner Jekyll-Themes (diese hier: [himsel.me/material-theme](http://himsel.me/material-theme)) oft benutzt wird.
+Some people who use one of my jekyll themes ([himsel.me/material-theme](http://himsel.me/material-theme)):
 
-Einige Websites, die die Theme benutzen:
-
-[](https://varundey.me/blogs/hacking-my-hacktoberfest)
+[varundey.me](https://varundey.me/blogs/hacking-my-hacktoberfest)
+Thanks to the support!
 
 [lmen.us](https://lmen.us)
 
@@ -35,7 +34,7 @@ Einige Websites, die die Theme benutzen:
 
 [asset.joshuaavalon.com](http://asset.joshuaavalon.com)
 
-Websites findet man so:  
+find them like this:  
 [https://www.google.de/search?q=jekyll+theme+by+lukas+himsel](https://www.google.de/search?q=jekyll+theme+by+lukas+himsel)
 
-Github Projekt: [lukas-h/material-theme](https://github.com/lukas-h/material-theme)
+Github Project: [lukas-h/material-theme](https://github.com/lukas-h/material-theme)
