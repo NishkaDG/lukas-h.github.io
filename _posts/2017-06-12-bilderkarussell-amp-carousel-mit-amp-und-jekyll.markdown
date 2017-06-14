@@ -7,7 +7,8 @@ categories:
 - html
 ---
 
-In meinem Blog habe ich schon beschrieben, [wie man eine Seite mit Jekyll und AMP baut](http://himsel.me/06-04-2017-Accelerated-Mobile-Pages.html). Wie man einfache Bildergalerien für AMP erstellt, beschreibe ich hier.
+In meinem Blog habe ich schon beschrieben, [wie man eine Seite mit Jekyll und AMP baut](http://himsel.me/06-04-2017-Accelerated-Mobile-Pages.html).  
+Wie man einfache Bildergalerien für AMP erstellt, beschreibe ich hier.
 
 Für mein Beispiel benutze ich die [vorgefertigte AMP-Komponente `amp-carousel`](https://ampbyexample.com/components/amp-carousel/). 
 
