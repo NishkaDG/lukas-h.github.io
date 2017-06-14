@@ -53,5 +53,7 @@ Wenn man nur AMP-Versionen der Posts haben will (ohne die 'unbeschleunigten', no
 update: Support für Github Gists hinzugefügt ([Gists in AMP einbinden](https://ampbyexample.com/components/amp-gist/)  
 
 *Mehr* zu AMP  
+[Bilderkarussell (amp-carousel) mit AMP und Jekyll
+](http://himsel.me/06-12-2017-bilderkarussell-amp-carousel-mit-amp-und-jekyll.html)  
 [https://ampbyexample.com](ampbyexample.com)  
 [AMP Jekyll Theme](https://github.com/ageitgey/amplify)
