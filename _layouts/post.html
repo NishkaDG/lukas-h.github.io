@@ -11,7 +11,8 @@ layout: default
 {% assign size = page.images | size %}
 {% if size == 1 and page.images[0] == '/images/200x200.jpg' %}
 
-{% else %} 
+{% else %}
+<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
 <amp-carousel width="400"
   height="200"
   layout="responsive"
