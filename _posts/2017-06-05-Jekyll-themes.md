@@ -1,6 +1,6 @@
 ---
 title: material jekyll theme
-date: 2017-06-05 16:06:00 Z
+date: 2017-06-05 02:06:00 Z
 categories:
 - github
 - open-source
@@ -34,7 +34,7 @@ Thanks to the support!
 
 [asset.joshuaavalon.com](http://asset.joshuaavalon.com)
 
-find them like this:  
+find more like these examples:  
 [https://www.google.de/search?q=jekyll+theme+by+lukas+himsel](https://www.google.de/search?q=jekyll+theme+by+lukas+himsel)
 
 Github Project: [lukas-h/material-theme](https://github.com/lukas-h/material-theme)
