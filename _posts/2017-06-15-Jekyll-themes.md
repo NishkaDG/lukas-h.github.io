@@ -12,7 +12,7 @@ layout: post
 Some people who use one of my jekyll themes ([himsel.me/material-theme](http://himsel.me/material-theme)):
 
 [varundey.me](https://varundey.me/blogs/hacking-my-hacktoberfest)
-Thanks to the support!
+Thanks for his support!
 
 [lmen.us](https://lmen.us)
 
