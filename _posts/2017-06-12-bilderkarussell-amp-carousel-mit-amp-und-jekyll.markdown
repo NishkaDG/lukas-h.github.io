@@ -5,6 +5,7 @@ categories:
 - amp
 - jekyll
 - html
+gists: true
 ---
 
 In meinem Blog habe ich schon beschrieben, [wie man eine Seite mit Jekyll und AMP baut](http://himsel.me/06-04-2017-Accelerated-Mobile-Pages.html).  

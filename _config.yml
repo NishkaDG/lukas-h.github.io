@@ -16,8 +16,7 @@ defaults:
     permalink: "/:month-:day-:year-:title:output_ext"
     layout: post
     author: Lukas Himsel
-    images:
-    - "/images/200x200.jpg"
+    gists: false
 safe: false
 markdown: kramdown
 highlighter: rouge

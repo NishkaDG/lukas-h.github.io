@@ -8,6 +8,7 @@ categories:
 - jekyll
 - amp
 layout: post
+gists: true
 ---
 
 Ich habe meine Website jetzt komplett auf [Accelerated Mobile Pages (AMP)](https://ampproject.com) umgestellt.
