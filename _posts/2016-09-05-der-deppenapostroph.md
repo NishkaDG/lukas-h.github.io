@@ -4,6 +4,10 @@ date: 2016-09-05 19:03:00 Z
 categories:
 - Sprache
 author: Stephan Krückel
+images:
+- https://pbs.twimg.com/media/C2Nn8hfWIAAyu6i.jpg
+- https://pbs.twimg.com/media/CNcA96nWwAAuGMM.jpg
+- https://pbs.twimg.com/media/CC0T2fxW8AEIzWV.jpg
 layout: post
 ---
 
@@ -46,3 +50,5 @@ Bei allgemein üblichen Verschmelzungen von Präposition (Verhältniswort) und A
 Der Apostroph steht **nur dann** zur Kennzeichnung des Genitivs (Wesfalls) von Namen, wenn diese auf s,
 ss, ß, tz, z, x, ce enden und keinen Artikel o. Ä. bei sich haben (Bsp.: Grass' Blechtrommel, Voß' Übersetzung,
 Ringelnatz' Gedichte, Marx' Philosophie).
+
+Bilderquelle: [`@FranzImsch`](https://twitter.com/FranzImsch)
