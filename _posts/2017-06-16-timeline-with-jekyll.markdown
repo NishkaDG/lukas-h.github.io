@@ -13,7 +13,7 @@ images:
 - https://raw.githubusercontent.com/lukas-h/jekyll-timeline/master/screenshot2.png
 ---
 
-[GITHUB PROJEKT](https://github.com/lukas-h/jekyll-timeline)
+[GITHUB PROJECT](https://github.com/lukas-h/jekyll-timeline)
 
 Visualize time structured data with this simple jekyll-template.
 This Jekyll site is perfect for your résumé or other timelines.
@@ -35,8 +35,8 @@ This Jekyll site is perfect for your résumé or other timelines.
 
     - the Site title: `title`
     - background color `color`
-    - url (***very important***) `url`
-    - baseurl (***important***) `baseurl` (name it after the repo)
+    - url (*important*) `url`
+    - baseurl (*important*) `baseurl` (name it after the repo)
     - site's `description`
 5. You're done! (Look at https://<*USERNAME*>.github.io/<*REPO*>)
 
