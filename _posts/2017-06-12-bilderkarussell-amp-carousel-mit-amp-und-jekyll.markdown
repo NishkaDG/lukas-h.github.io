@@ -21,6 +21,6 @@ Im nächsten Gist sieht man, wie ein Karussell mit AMP aussieht. Einfach den Cod
 
 <script src="https://gist.github.com/lukas-h/bb49c4d4b2ba5c6e480115c246b24a64.js"></script>
 
-Wichtig ist, in der Seiten-Konfiguration noch festzulegen, dass jeder Post ein yml-Array mit dem Namen `images` hat.
+(Update) Wenn man nun eine Bildergalerie erstellen möchte, muss man einfach nur in das [front matter](http://jekyllrb.com/docs/frontmatter/) des Posts ein Array mit dem Namen `images` festlegen.
 
 <script src="https://gist.github.com/lukas-h/008ac2715b56fcd5807c3880e20b507a.js"></script>
