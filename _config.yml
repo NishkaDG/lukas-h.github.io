@@ -22,7 +22,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 permalink: "/:title"
-description: 'Lukas Himsel''s personal website. 17 years old student in Germany, Franxonia.
+description: 'Lukas Himsel''s personal website. 17 years old student in Germany, Franconia.
   Interested in open-source, open-data, modern web development (with AMP, static site
   generators, following the JAMStack) and music, especially piano music. Blog mostly
   in german language. '
