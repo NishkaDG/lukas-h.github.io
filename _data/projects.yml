@@ -1,10 +1,13 @@
-
+- name: 'Stolpersteine <span class="chip">NEW</span>'
+  link: http://stolpersteine-heilbronn.de
+  github: https://github.com/opendata-heilbronn/stolpersteine
+  description: Website für das Stolpersteine-Projekt, entstanden zusammen mit dem Stadtarchiv Heilbronn und OKLab HN
 - name: WOB Mototrade
   link: "http://wob-mototrade.de"
   description: "Fachmesse für die Motorradbranche (Realisation der Website)"
 - name: a. v. & m. Verlag
   link: "http://avmverlag.de"
-  description: "Webdesign"
+  description: "(Realisation der Website)"
 - name: Code for Heilbronn
   github: "https://github.com/opendata-heilbronn"
   link: http://codefor.de/heilbronn
