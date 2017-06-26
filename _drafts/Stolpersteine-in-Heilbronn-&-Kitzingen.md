@@ -33,13 +33,28 @@ Außerdem in Markdown-Format: [Github](https://github.com/opendata-heilbronn/sto
 Die Website-Quellcode (Layouts, CSS, usw.) steht unter den Bedingungen der MIT Lizenz.
 [Github Projekt](https://github.com/opendata-heilbronn/stolpersteine/)
 
+### Wo außer Heilbronn wird das Projekt schon eingesetzt?
+- Kitzingen
+- (Bald) mehr hier: 
+https://opendata-heilbronn.github.io/stolpersteine-docs/projects/index.html
+
+
+### Features
+...
+Mehr hier:
+https://opendata-heilbronn.github.io/stolpersteine-docs/docs/2-features.html
+
 ### Technische Umsetzung
 Jekyll, Github Pages, Siteleaf
 
 ### Für andere OKLabs und Stolperstein-Aktionen / Projekt Weiterverwendung
 - Dokumentation
 - Wie setze ich eine Website auf
+#### Inhalte einpflegen
+#### ....
 
+### Mithelfen
+... Mehr hier: https://opendata-heilbronn.github.io/stolpersteine-docs
 
 ### Links
 ...
@@ -49,4 +64,7 @@ Beispielhafte Darstellung der Stolpersteine in Geojson-Format:
 <script src="https://gist.github.com/lukas-h/2a0df5216644e4507d0d784e39db5630.js"></script>
 
 Mehr zu Stolpersteinen auf Wikipedia:
+...
+
+### Danke an. 
 ...
