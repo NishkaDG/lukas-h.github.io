@@ -12,6 +12,8 @@ layout: post
 gists: true
 ---
 
+>>> BILDERKARUSSELL <<<
+
 In den letzten Monaten habe ich im Rahmen des OKLabs und dem Stadtarchiv in Heilbronn eine Website für die Stolperstein-Aktion in Heilbronn (HN) gebaut.  
 
 Stolpersteine sind Denkmäler für Opfer (meist jüdischer Abstammung) des Nazi-Regimes. Die in den Boden eingelassenen Gedenktafeln zeigen Informationen über die Schicksale der Menschen. Das Projekt wurde von dem Künstler Gunter Demnig gestartet.
