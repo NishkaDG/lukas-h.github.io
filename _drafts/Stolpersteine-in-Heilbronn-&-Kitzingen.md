@@ -11,10 +11,10 @@ categories:
 layout: post
 gists: true
 images:
-- "https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/startseite.png"
-- "https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/karte.png"
-- "https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/aktionen.png"
-- "https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/stolperstein.png"
+- https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/startseite.png
+- https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/karte.png
+- https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/aktionen.png
+- https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/stolperstein.png
 ---
 
 In den letzten Monaten habe ich im Rahmen des OKLabs und dem Stadtarchiv in Heilbronn eine Website für die Stolperstein-Aktion in Heilbronn (HN) gebaut.  
