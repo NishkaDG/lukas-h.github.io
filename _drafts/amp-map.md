@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Geojson auf einer Karte darstellen mit AMP
+date: 2017-07-02 21:39:05.054000000 Z
+layout: post
 ---
 
 ## Einführung
