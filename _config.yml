@@ -34,6 +34,7 @@ accent: "#f7f7e6"
 author: Lukas Himsel
 address: Manegoldstraße 11<br>97346 Iphofen, DE
 email: lukas@himsel.me
+tel: "+49 162 363 3551"
 isolang: de
 exclude:
 - LICENSE
