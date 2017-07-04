@@ -13,3 +13,5 @@ http://leafletjs.com/examples/geojson/
 ## der schwierigere Weg: amp-iframe + leaflet
 
 [Gist]
+
+lukas-h.github.io/assets/map.html?src=http://stolpersteine-heilbronn.de/stolpersteine.geojson&lat=49.13&long=9.21&zoom=12
