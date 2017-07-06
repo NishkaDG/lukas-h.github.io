@@ -3,7 +3,8 @@ title: Geojson auf einer Karte darstellen mit AMP
 date: 2017-07-02 21:39:00 Z
 gists: true
 layout: post
-custom_elements: '<script async src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js" custom-element="amp-iframe" ></script>'
+custom_elements: <script async src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"
+  custom-element="amp-iframe" ></script>
 ---
 
 ## Einführung
