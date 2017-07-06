@@ -30,10 +30,11 @@ layout: default
 		<div class="page-content" itemprop="articleBody">
 			{{ page.content }}
 		</div>
-
+        <p>
         <div class="chip" itemprop="author">
             <span itemscope itemtype="http://schema.org/Person">Artikel von <span itemprop="name">{{ page.author }}</span></span>
         </div>
+        </p>
         <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
             <meta itemprop="url" content="{{ site.url }}{{ site.baseurl }}/images/200x200.jpg">
             <meta itemprop="width" content="200">

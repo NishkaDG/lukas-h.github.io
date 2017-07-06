@@ -9,11 +9,11 @@ layout: default
 {% for category in site.categories %}
 <div id="{{ category[0] }}">
 <h3 class="chip">{{ category[0] }}</h3>
-<p>
+<ul>
 {% for p in category[1] %}
-<a href="{{ p.url }}">{{ p.title }}</a><br>
+<li><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% endfor %}
-</p>
+</ul>
 </div>
 {% endfor %}
 </div>
