@@ -42,7 +42,12 @@ Im default-Layout findet man die Zeile `include head.html`. Damit wird das Templ
 [Gist head.html](https://gist.github.com/lukas-h/4765166053040d59e51f888118333b0c)  
 
 In dem Code-Snippet kann man sehen, dass AMP keine externen CSS-Dateien erlaubt. Stattdessen verwendet man ein inline-`style`-Tag mit dem Attribut `amp-custom` für alle CSS-Regeln.
-Wichtig ist zudem, die AMP-Javascript-Datei zu laden (`<script async src="https://cdn.ampproject.org/v0.js"></script>`)
+Wichtig ist zudem, die AMP-Javascript-Datei zu laden (`<script async src="https://cdn.ampproject.org/v0.js"></script>`).
+
+Um noch zusätzliche [AMP-Komponenten](https://ampbyexample.com/#components) verwenden zu können, kann man in das Front-Matter der Seiten eine Variable deklarieren, in der die Script-Dateien für die Komponenten sind. Im HTML-Kopf wird dann gecheckt ob die Variable (hier `custom_elements`) vorhanden ist und somit in die Seite eingebunden wird.
+
+
+
 
 
 Normalerweise verwendet man AMP nur, um bestimmte Teilbereiche der Website wie News-Artikel oder Produkte bei einem Onlineshop zu 'beschleunigen'.
@@ -51,7 +56,8 @@ Wenn man nur AMP-Versionen der Posts bei Jekyll erstellen möchte und **ohne** G
 
 Wenn man nur AMP-Versionen der Posts haben will (ohne die 'unbeschleunigten', normalen Versionen), kann man ein ähnliches Layout, wie hier im Artikel gezeigt, nur für die Posts (also als Datei `_layouts/post.html`) erstellen.
 
-update: Support für Github Gists hinzugefügt ([Gists in AMP einbinden](https://ampbyexample.com/components/amp-gist/)  
+update: Support für Github Gists hinzugefügt ([Gists in AMP einbinden](https://ampbyexample.com/components/amp-gist/))  
+update2: Support für zusätzliche AMP-Komponenten
 
 *Mehr* zu AMP  
 [Bilderkarussell (amp-carousel) mit AMP und Jekyll
