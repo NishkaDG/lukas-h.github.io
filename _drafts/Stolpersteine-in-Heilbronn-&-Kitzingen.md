@@ -1,6 +1,6 @@
 ---
 title: Stolpersteine in Heilbronn und Anderswo - Projekt für Code for Germany
-date: 2017-06-26 10:33:00 Z
+date: 2017-06-26 00:00:00 Z
 categories:
 - html
 - open-source
