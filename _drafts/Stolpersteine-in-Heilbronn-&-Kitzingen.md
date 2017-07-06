@@ -12,8 +12,8 @@ gists: true
 images:
 - https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/startseite.png
 - https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/karte.png
-- https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/aktionen.png
 - https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/stolperstein.png
+- https://opendata-heilbronn.github.io/stolpersteine-docs/uploads/aktionen.png
 layout: post
 ---
 
