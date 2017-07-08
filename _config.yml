@@ -40,7 +40,7 @@ exclude:
 - LICENSE
 - README.md
 include:
-- .firebaserc
+- ".firebaserc"
 - firebase.json
 replacements:
 - - "<img"
