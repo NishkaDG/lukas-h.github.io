@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "5.11"
+before_install:
+  - rvm install 2.2.2
+
+install:
+- gem install jekyll
+before_script:
+  - npm install -g firebase-tools
+  - chmod +x ./script/build.sh
+  - chmod +x ./script/deploy.sh
+script: scripts/build.sh
+
+after_success: scripts/deploy.sh

@@ -39,6 +39,9 @@ isolang: de
 exclude:
 - LICENSE
 - README.md
+include:
+- .firebaserc
+- firebase.json
 replacements:
 - - "<img"
   - "<amp-img"
