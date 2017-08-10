@@ -6,7 +6,8 @@ notifications:
 
 before_install:
   - rvm install 2.1
-  - rvm use 2.1
+  - rvm use 2.
+  - . $HOME/.nvm/nvm.sh && nvm install 6.1 && nvm use 6.1
   - gem install bundler
   - bundle check || bundle install
 
