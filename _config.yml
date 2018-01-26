@@ -1,6 +1,6 @@
 ---
-title: Lukas Himsel
-timezone: UTC
+title: Nishka Dasgupta
+timezone: UTC+05:30
 collections:
   posts:
     title: Posts
@@ -28,13 +28,9 @@ description: 'Lukas Himsel''s personal website. 17 years old student in Germany,
   in german language. '
 baseurl: 
 url: https://nishkadg.github.io
-twitter_username: lukashimsel
-github_username: lukas-h
-accent: "#f7f7e6"
-author: Lukas Himsel
-address: Manegoldstraße 11<br>97346 Iphofen, DE
+github_username: NishkaDG
+author: Nishka Dasgupta
 email: lukas@himsel.me
-tel: "+49 162 363 3551"
 isolang: de
 exclude:
 - LICENSE
