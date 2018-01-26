@@ -30,9 +30,9 @@ baseurl:
 url: https://nishkadg.github.io
 github_username: NishkaDG
 author: Nishka Dasgupta
-email: lukas@himsel.me
-isolang: de
+isolang: en
 exclude:
+- address
 - LICENSE
 - README.md
 include:
