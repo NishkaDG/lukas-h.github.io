@@ -27,7 +27,7 @@ description: 'Lukas Himsel''s personal website. 17 years old student in Germany,
   generators, following the JAMStack) and music, especially piano music. Blog mostly
   in german language. '
 baseurl: 
-url: http://himsel.me
+url: https://nishkadg.github.io
 twitter_username: lukashimsel
 github_username: lukas-h
 accent: "#f7f7e6"
