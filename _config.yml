@@ -31,8 +31,8 @@ url: https://nishkadg.github.io
 github_username: NishkaDG
 author: Nishka Dasgupta
 isolang: en
+email: nishka.dasgupta@yahoo.com
 exclude:
-- address
 - LICENSE
 - README.md
 include:
