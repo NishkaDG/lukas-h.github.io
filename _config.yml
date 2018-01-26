@@ -15,23 +15,20 @@ defaults:
   values:
     permalink: "/:month-:day-:year-:title:output_ext"
     layout: post
-    author: Lukas Himsel
+    author: Nishka Dasgupta
     gists: false
 safe: false
 markdown: kramdown
 highlighter: rouge
 lsi: false
 permalink: "/:title"
-description: 'Lukas Himsel''s personal website. 17 years old student in Germany, Franconia.
-  Interested in open-source, open-data, modern web development (with AMP, static site
-  generators, following the JAMStack) and music, especially piano music. Blog mostly
-  in german language. '
+description: 'Nishka Dasgupta''s personal website.'
 baseurl: 
 url: https://nishkadg.github.io
 github_username: NishkaDG
 author: Nishka Dasgupta
-isolang: en
 email: nishka.dasgupta@yahoo.com
+isolang: en
 exclude:
 - LICENSE
 - README.md
