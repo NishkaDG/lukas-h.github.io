@@ -1,3 +1,6 @@
+- name: SVD Recommender
+  github: https://github.com/NishkaDG/svd-recommender
+  description: Program to use SVD for a user-based recommendation system (Python)
 - name: Circuit Generator
   github: https://github.com/NishkaDG/circuit-generator
   description: Program to generate circuits for 4-variable s-boxes (Python)
