@@ -1,15 +1,18 @@
+- name: Applebaum-Arkis
+  github: https://github.com/NishkaDG/Applebaum-Arkis
+  description: A set of programs implementing d-uniform secret sharing (Python)
+- name: Shamir
+  github: https://github.com/NishkaDG/Shamir
+  description: An implementation of Shamir's Secret Sharing (Python)
+- name: Beimel-Peter
+  github: https://github.com/NishkaDG/Beimel-Peter
+  description: Some implementations of Conditional Disclosure of Secrets (Python)
+- name: Codes
+  github: https://github.com/NishkaDG/Codes
+  description: Implementations of codes used to detect and correct errors in network transmissions (Python)
 - name: SVD Recommender
   github: https://github.com/NishkaDG/svd-recommender
   description: Program to use SVD for a user-based recommendation system (Python)
-- name: Circuit Generator
-  github: https://github.com/NishkaDG/circuit-generator
-  description: Program to generate circuits for 4-variable s-boxes (Python)
 - name: Parser
   github: https://github.com/NishkaDG/parser
   description: Interpreter and Lexical Analyzer for a rudimentary language (Java)
-- name: Shuttle App
-  github: https://github.com/NishkaDG/ShuttleApp
-  description: App for seat booking on transport systems (Java)
-- name: Chacha
-  description: Chacha stream cipher implemented (C, MIPS)
-  github: https://github.com/NishkaDG/chacha-cipher
